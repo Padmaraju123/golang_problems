@@ -1,0 +1,5 @@
+1)array is a composite data type and has a fixed length.
+2) Go stores elements in a contiguous memory locations and this way it is very efficient.
+3)we can use append method for array but we can for slice
+4)by default the array has zeros in it
+5)we can do indexing in array for slices it not applicable
